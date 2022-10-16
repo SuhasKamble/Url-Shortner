@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://suhas:suhas@cluster0.cj8de.mongodb.net/Url-Shortner?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
